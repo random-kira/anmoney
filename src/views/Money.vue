@@ -1,7 +1,7 @@
 <template>
-    <div>money
-        <Nav></Nav>
-    </div>
+    <Layout>
+        <p>money</p>
+    </Layout>
 </template>
 
 <script lang="ts">
