@@ -6,10 +6,6 @@
 
 <script lang="ts">
   export default {
-    name: 'La\'bels',
+    name: 'Labels',
   };
 </script>
-
-<style lang="scss" scoped>
-
-</style>

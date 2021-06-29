@@ -9,7 +9,3 @@
     name: 'Statistics',
   };
 </script>
-
-<style lang="scss" scoped>
-
-</style>
